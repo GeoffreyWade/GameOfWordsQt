@@ -1,5 +1,5 @@
 # GameOfWordsQt
-This is project is a word game application, that was coded in C++/Qt in the spring of 2014.
+This project is a word game application, that was coded in C++/Qt in the spring of 2014.
 
 The application was initially built as a project with the Qt4.8 framework. Since then the application has been rebuilt with Qt versions 5.1, 5.2, 5.3, and prior to this commit Qt5.5. The application consists of three files:
 
