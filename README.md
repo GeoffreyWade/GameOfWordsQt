@@ -7,8 +7,7 @@ main.cpp
 gameofwords.cpp
 gameofwords.h
 
-and directory title WordData that contains the word list that will be inputted into the program as a word bank
-for the application:
+and the directory title: WordData; that contains the word list that will be inputted into the program as a word bank.
 
 WordData/TheHundredGrand.txt
 
@@ -27,7 +26,7 @@ As of right now the application is ready to built and used by users of Unix-like
 prefix being:
 WordData
 
-and the AddFile being:
+and the Add File being:
 
 WordData/TheHundredGrand.txt
 
