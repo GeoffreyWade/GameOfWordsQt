@@ -37,9 +37,14 @@ directory can be performed in order for the the directory to exist in the reques
 It should be noted that Windows users will have to make adjustments to the name space of the Qt Resource file (.qrc) file and to the function within the gameofwords.cpp class file.
 
 The function:
+
 void GameOfWords::fileStart(bool load) {}
 
-contains a QFile object titled myfile, adjustments will have to be made for Windows filesystem types for the backslashes of the namespace of the files added.
+contains a QFile object titled:
+
+myfile
+
+adjustments will have to be made for the Windows file system types, meaning that the frontslashes will have to be changed to backslashes; where the namespace of the files added are concerned.
 
 I hope this helps!
 
